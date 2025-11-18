@@ -13,10 +13,10 @@ h2{
 }
 
 p{
-  font-size: 1vw;
+  font-size: 2vw;
   font-weight: bold;
-  margin-left: 1vw;
-  margin-right: 1vw;
+  margin-left: 2vw;
+  margin-right: 2vw;
 }
 
 h3{
@@ -52,6 +52,9 @@ h4{
   font-family: Arial, Helvetica, sans-serif;
 }
 h3{
+  font-family: Arial, Helvetica, sans-serif;
+}
+p{
   font-family: Arial, Helvetica, sans-serif;
 }
 p1{
